@@ -1,9 +1,10 @@
 # 🛍️ MEAN Stack E-Commerce Project  
-### Full Stack E-Commerce Web Application using Angular (JavaScript), Node.js, Express, and MongoDB  
+### Full Stack E-Commerce Web Application using Angular, Node.js, Express, and MongoDB  
 
-This is a complete **E-Commerce Web Application** built using the **MEAN Stack** — **MongoDB**, **Express.js**, **Angular (JavaScript)**, and **Node.js**.  
-It includes both **frontend (Angular)** and **backend (Node.js + Express)** with full **CRUD functionality**, starting from **Category Management** and extendable to Products, Users, and Orders.
+This is a complete **E-Commerce Web Application** built using the **MEAN Stack** — **MongoDB**, **Express.js**, **Angular**, and **Node.js**.  
+It includes both **frontend (Angular)** and **backend (Node.js + Express)** with full **CRUD functionality**, starting with **Category Management** and extendable to Products, Users, and Orders.
 
+This project is ideal for **college projects**, **placements**, and **portfolio building**.
 
 ---
 
@@ -15,7 +16,7 @@ It includes both **frontend (Angular)** and **backend (Node.js + Express)** with
 ✅ MongoDB database for scalable data storage  
 ✅ Clean and modular folder structure  
 ✅ Easy setup and customization  
-✅ Great for learning full-stack development  
+✅ Perfect for learning full-stack web development  
 
 ---
 
@@ -23,7 +24,7 @@ It includes both **frontend (Angular)** and **backend (Node.js + Express)** with
 
 | Layer | Technology Used |
 |-------|------------------|
-| **Frontend** | Angular (JavaScript, HTML, CSS) |
+| **Frontend** | Angular |
 | **Backend** | Node.js + Express.js |
 | **Database** | MongoDB |
 | **Runtime Environment** | Node.js |
