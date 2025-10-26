@@ -1,4 +1,4 @@
-# 🛍️ MEAN Stack E-Commerce Project — Part 1  
+# 🛍️ MEAN Stack E-Commerce Project   
 ### Project Setup | Category Management | Angular (JavaScript) | NodeJS | Express | MongoDB  
 
 This project is the **first part** of a complete **E-Commerce Web Application** built using the **MEAN Stack** (MongoDB, Express.js, Angular, and Node.js).  
